@@ -1,0 +1,10 @@
+{
+  "name": "Suneer AI",
+  "short_name": "Suneer AI",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#090d18",
+  "theme_color": "#090d18",
+  "description": "Private hybrid personal AI assistant",
+  "icons": []
+}
