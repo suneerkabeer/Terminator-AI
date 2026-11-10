@@ -1,10 +1,26 @@
 {
-  "name": "Suneer AI",
-  "short_name": "Suneer AI",
-  "start_url": ".",
+  "id": "/Terminator-AI/",
+  "name": "TERMINATOR - Personal AI",
+  "short_name": "TERMINATOR",
+  "start_url": "/Terminator-AI/",
+  "scope": "/Terminator-AI/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#090d18",
   "theme_color": "#090d18",
-  "description": "Private hybrid personal AI assistant",
-  "icons": []
+  "description": "Your personal hybrid AI assistant",
+  "icons": [
+    {
+      "src": "/Terminator-AI/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Terminator-AI/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
 }
